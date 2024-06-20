@@ -1,6 +1,10 @@
 # RobloxStudio
 Guardians Of The Book
 
+시연영상
+
+https://youtu.be/vBnGk2w69pw?si=brzcESM3pR3Ewp-x
+
 
 [책의 수호자.pdf](https://github.com/user-attachments/files/15846161/default.pdf)
 
